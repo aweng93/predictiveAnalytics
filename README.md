@@ -58,8 +58,6 @@ This repository is included as portfolio evidence of Python, Jupyter Notebook, d
 
 | File | Description |
 
-|---|---|
-
 | `clinical\_predictive\_analytics.ipynb` | Main Jupyter Notebook containing the project workflow |
 
 | `clinical.py` | Supporting Python script |
@@ -76,7 +74,7 @@ This repository is included as portfolio evidence of Python, Jupyter Notebook, d
 
 
 
-!\[Correlation heatmap](Heatmap.png)
+!\[Correlation heatmap](images/Heatmap.png)
 
 
 
