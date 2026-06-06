@@ -74,17 +74,13 @@ This repository is included as portfolio evidence of Python, Jupyter Notebook, d
 
 
 
-!\[Correlation heatmap](images/Heatmap.png)
+![Correlation heatmap](./images/Heatmap.png)
 
 
 
 \## Methods Summary
 
-
-
 The project workflow includes:
-
-
 
 1\. Data loading and inspection
 
@@ -102,15 +98,11 @@ The project workflow includes:
 
 \## Relevance
 
-
-
 This project demonstrates skills relevant to data analytics and digital work, including structured data analysis, Python-based analytics workflows, visualization, and predictive modeling. It complements my business intelligence and dashboarding work by showing experience with more technical predictive analytics methods.
 
 
 
 \## View the Full Notebook
 
-
-
-\[Open the full Jupyter Notebook](clinical\_predictive\_analytics.ipynb)
+[Open the full Jupyter Notebook](./clinical_predictive_analytics.ipynb)
 
